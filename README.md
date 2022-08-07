@@ -10,3 +10,8 @@ The redesigns offer:
 - full compatibility with the skirmish trail
 - more defense unit spots in the aiv to allow for more versitile aic usage and compatibility
 - at least or more stockpile and armoury space as in vanilla castles
+
+### UCP-Skirmish-Setup
+Now a 'premature' functional setup with filled up castles from Xander-10-alpha's Evrey Vanilla Fixed Castle set was added to this repository.
+
+Just run the UCP inside, select your path you want to install to and hit install. But be aware that up till now only the first 25 Missions are fully functional with this setup!
